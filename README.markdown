@@ -64,8 +64,8 @@ Add the following lines to ~/.gemrc, this will speed up gem installation and pre
 
     ---
     :sources:
+    - http://gemcutter.org
     - http://gems.rubyforge.org
-    - http://gems.github.com
     gem: --no-ri --no-rdoc
 
 
