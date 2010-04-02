@@ -233,4 +233,7 @@ Restart nginx
     
 Check you ipaddress and see if you can acess the rails application
         
+PHP
+---
 
+http://interfacelab.com/nginx-php-fpm-apc-awesome/
