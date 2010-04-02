@@ -237,3 +237,15 @@ PHP
 ---
 
 http://interfacelab.com/nginx-php-fpm-apc-awesome/
+
+Webmin
+------
+
+sudo apt-get install perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl libmd5-perl
+wget http://www.webmin.com/download/deb/webmin-current.deb
+sudo dpkg -i webmin_1.*_all.deb
+
+Munin & Monit
+-------------
+
+Install it and configure.
