@@ -13,6 +13,10 @@ edit .bashrc and uncomment the loading of .bash_aliases
 If you have trouble with PATH that changes when doing sudo, see http://stackoverflow.com/questions/257616/sudo-changes-path-why then add the following line to the same file
 
     echo "alias sudo='sudo env PATH=$PATH'" >> ~/.bash_aliases
+
+or just comment out "Defaults env_reset" in /etc/sudoers
+
+    sudo nano /etc/sudoers
     
 
 Update and upgrade the system
