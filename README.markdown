@@ -253,3 +253,5 @@ Munin & Monit
 -------------
 
 Install it and configure.
+
+http://github.com/jnstq/munin-nginx-ubuntu + railsdoctors.com
