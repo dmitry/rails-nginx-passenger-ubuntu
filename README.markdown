@@ -241,6 +241,7 @@ PHP
 ---
 
 http://www.nginx.se/resurser/nginx_php_fpm/
+http://www.howtoforge.com/installing-nginx-with-php-5.3-and-php-fpm-on-ubuntu-lucid-lynx-10.04 - download libs from here, and patch fmp
 
 Webmin
 ------
