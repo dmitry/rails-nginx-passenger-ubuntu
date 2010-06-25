@@ -240,7 +240,7 @@ Check you ipaddress and see if you can acess the rails application
 PHP
 ---
 
-http://interfacelab.com/nginx-php-fpm-apc-awesome/
+http://www.nginx.se/resurser/nginx_php_fpm/
 
 Webmin
 ------
