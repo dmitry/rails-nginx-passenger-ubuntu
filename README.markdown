@@ -240,8 +240,7 @@ Check you ipaddress and see if you can acess the rails application
 PHP
 ---
 
-http://www.nginx.se/resurser/nginx_php_fpm/
-http://www.howtoforge.com/installing-nginx-with-php-5.3-and-php-fpm-on-ubuntu-lucid-lynx-10.04 - download libs from here, and patch fmp
+* http://renebakx.nl/22/compiling-php-5-3-3-with-nginx-on-ubuntu-10-4-for-drupal-7/
 
 Webmin
 ------
