@@ -1,6 +1,13 @@
 rails-nginx-passenger-ubuntu
 ============================
 
+*DEPRECATED* a long time ago. Please use docker with passenger.
+
+https://github.com/phusion/passenger-docker
+
+OLD STUFF
+============
+
 My notes on setting up a simple production server with ubuntu, nginx, passenger and mysql for rails.
 
 Aliases
